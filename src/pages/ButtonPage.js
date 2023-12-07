@@ -1,4 +1,4 @@
-import Button from "../lib/components/Button";
+import Button from "../components/Button";
 import { GoBellFill } from "react-icons/go";
 import { GoHeart } from "react-icons/go";
 import { GoInbox } from "react-icons/go";
