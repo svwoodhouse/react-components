@@ -4,7 +4,7 @@ import { GoHeart } from "react-icons/go";
 import { GoInbox } from "react-icons/go";
 import Accordion from "./components/Accordion";
 
-function ButtonPages() {
+function ButtonPage () {
   return (
     <div>
         <div > 
@@ -27,4 +27,4 @@ function ButtonPages() {
   );
 }
 
-export default ButtonPages;
+export default ButtonPage;

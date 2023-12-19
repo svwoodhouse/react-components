@@ -1,8 +1,8 @@
 {
-  "name": "squid-react-components",
+  "name": "react-components",
   "description": "A bunch of tailwind styled react component",
   "author": "swoodhouse",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
