@@ -21,6 +21,11 @@ function Dropdown ({ options, value, onChange}) {
       
       useEffect(()=>{
         const handler = (event) => {
+
+          if(!divRef.current) {
+            return
+          }
+          
           if(!divRef.current.contains(event.target)){
             setIsOpen(false)
           }

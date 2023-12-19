@@ -2,7 +2,6 @@ import Button from "../components/Button";
 import { GoBellFill } from "react-icons/go";
 import { GoHeart } from "react-icons/go";
 import { GoInbox } from "react-icons/go";
-import Accordion from "./components/Accordion";
 
 function ButtonPage () {
   return (
@@ -22,7 +21,6 @@ function ButtonPage () {
         <div > 
           <Button primary rounded>Hi there</Button>
         </div>
-        <Accordion/>
     </div>
   );
 }
